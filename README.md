@@ -19,7 +19,13 @@ I founded RealDev in September 2025 and launched it in April 2026. I build and o
 - **AI feedback:** code reviews, contextual hints, and Understanding Checks.
 - **Hiring marketplace:** developer profiles that bring completed work and resumes together for hiring teams.
 
-**Stack:** TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Redis, Docker, and AWS.
+### Technology stack
+
+- **Application:** TypeScript, React, Next.js, Node.js, Express, Monaco Editor, and Socket.io.
+- **Systems & execution:** Go services for execution infrastructure, networking, and agent process supervision; Docker for isolated environments; Playwright for browser-based challenge tests.
+- **Data:** PostgreSQL, Redis, and object storage.
+- **AWS:** EC2 for compute, RDS for PostgreSQL, S3 for durable files and assets, CloudFront for asset delivery, CloudWatch for monitoring and logs, and IAM for service access control.
+- **Delivery:** Docker Compose and GitHub Actions for builds, checks, and deployment.
 
 ### Engineering behind the product
 

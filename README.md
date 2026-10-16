@@ -50,10 +50,6 @@ I work on the engineering around the model as well as the model interaction: man
 | **Procter & Gamble** | Software Engineer Intern | May–Aug 2024 |
 | **EndoSec** | Software Engineer Intern | May–Aug 2023 |
 
-At **GoDaddy**, my internship work on the Hivemind ML Experimentation team covered PySpark data pipelines on AWS EMR, React/Node applications on ECS, and event-driven workflows with Lambda and Step Functions.
-
-At **Fountnhead**, I worked on Node APIs, React/TypeScript interfaces, user research, and product planning. At **Procter & Gamble**, I built with FastAPI, Vue.js, and Python on the Identity and Access Management / Network team. At **EndoSec**, I worked with Flask, React, Node.js, PHP, and Laravel on the Security Development team.
-
 ## Education
 
 **The Ohio State University** · B.S. in Computer Science & Engineering, 2026  

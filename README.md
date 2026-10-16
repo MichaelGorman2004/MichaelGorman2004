@@ -12,6 +12,8 @@ I build developer tools, full-stack products, and AI systems. My experience span
 
 I founded RealDev in September 2025 and launched it in April 2026. I build and operate the product across the application, code execution infrastructure, and hiring marketplace.
 
+**As of October 2026:** 1,500+ users and 6 companies using our talent marketplace.
+
 - **Development workspace:** browser-based code editor, Docker-backed terminals, and saved workspaces.
 - **Practical challenges:** build features, run code, and check submissions against automated tests.
 - **AI feedback:** code reviews, contextual hints, and Understanding Checks.
